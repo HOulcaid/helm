@@ -566,6 +566,10 @@ grafana.ini:
       # The full public facing url you use in browser, used for redirects and emails
  #    root_url:
  # https://grafana.com/docs/grafana/latest/auth/github/#enable-github-in-grafana
+ 
+   server: 
+     root_url: "https://grafana.effistudio.com/"
+ 
  # auth.github:
  #    enabled: false
  #    allow_sign_up: false
